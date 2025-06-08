@@ -1,0 +1,42 @@
+Inception:
+  directors:
+    - Christopher Nolan
+  genres:
+    - Sci-Fi
+    - Action
+    - Thriller
+  actors:
+    - Leonardo DiCaprio
+    - Elliot Page
+    - Tom Hardy
+  year: 2010
+  rating: 8.8
+  watched: true
+
+The Shawshank Redemption:
+  directors:
+    - Frank Darabont
+  genres:
+    - Drama
+  actors:
+    - Tim Robbins
+    - Morgan Freeman
+    - Bob Gunton
+  year: 1994
+  rating: 9.3
+  watched: false
+
+The Matrix:
+  directors:
+    - Lana Wachowski
+    - Lilly Wachowski
+  genres:
+    - Sci-Fi
+    - Action
+  actors:
+    - Keanu Reeves
+    - Laurence Fishburne
+    - Carrie-Anne Moss
+  year: 1999
+  rating: 8.7
+  watched: true
